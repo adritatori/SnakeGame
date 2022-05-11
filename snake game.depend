@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1646952774 source:f:\learningcfiles\snake game\snake game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<math.h>
+
+1647553262 source:f:\learningcfiles\snake game c\snake game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<math.h>
+
+1647553262 source:f:\sdp 1\snake game c\snake game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<math.h>
+
